@@ -1,4 +1,4 @@
-# first_app
+# Roll Dice App
 
 A new Flutter project.
 
